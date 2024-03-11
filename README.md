@@ -55,7 +55,7 @@ To deploy the frontend application:
 
 ## Back End Code
 
- [BackEnd](https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)
+ [BackEnd code repository](https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)
 
 ## Live Site
- [Live Site](https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)
+ [Live Site-Netlify](https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)
