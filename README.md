@@ -54,7 +54,8 @@ To deploy the frontend application:
 
 
 ## Back End Code
-- [BackEnd]([https://github.com/Praveen8161/Forget-password-server.git](https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)
+
+ [BackEnd]([https://github.com/Praveen8161/Forget-password-server.git](https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)https://github.com/ArivazhaganPandiyan/password-reset-Backend/tree/main)
 
 ## Live Site
-- [Live Site]([https://forgot-password-8161.netlify.app/](https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)
+ [Live Site]([https://forgot-password-8161.netlify.app/](https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)https://65eec63d0045e620436f0c4b--mellow-florentine-f8de1a.netlify.app/)
